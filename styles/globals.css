@@ -1,9 +1,16 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: radial-gradient(
+    circle at 116.45% 74.18%,
+    #d151ed 0,
+    #b949ef 16.67%,
+    #9c42f1 33.33%,
+    #783cf2 50%,
+    #4239f3 66.67%,
+    #0038f5 83.33%,
+    #0039f6 100%
+  );
+  color: white !important;
 }
 
 a {

@@ -1,0 +1,104 @@
+{
+    "prompt": "barras, Columnas: ingresos y gastos, Datos: (Enero, 1000, 800), (Febrero, 1200, 900), (Marzo, 1100, 1000)Resp:",
+    "completion": "muestra las columnas de ingresos y gastos para cada mes. En enero, los ingresos fueron de 1000 y los gastos de 800. En febrero, los ingresos aumentaron a 1200 y los gastos a 900. En marzo, los ingresos disminuyeron a 1100 y los gastos aumentaron a 1000.END"
+},
+{
+    "prompt": "línea, Columnas: temperatura y humedad, Datos: (1, 30, 60), (2, 32, 62), (3, 31, 59), (4, 29, 55)Resp:",
+    "completion": "muestra la temperatura y la humedad en cuatro puntos diferentes. La temperatura aumenta de 30 a 32 entre los puntos 1 y 2, luego disminuye a 31 en el punto 3 y a 29 en el punto 4. La humedad aumenta de 60 a 62 entre los puntos 1 y 2, luego disminuye a 59 en el punto 3 y a 55 en el punto 4.END"
+  },
+  {
+    "prompt": "barras, Columnas: ventas y devoluciones, Datos: (Q1, 5000, 200), (Q2, 5500, 150), (Q3, 5300, 180)Resp:",
+    "completion": "muestra las ventas y las devoluciones en tres trimestres. En el primer trimestre, las ventas fueron de 5000 y las devoluciones de 200. En el segundo trimestre, las ventas aumentaron a 5500 y las devoluciones disminuyeron a 150. En el tercer trimestre, las ventas disminuyeron a 5300 y las devoluciones aumentaron a 180.END"
+  },
+  {
+    "prompt": "pastel, Columnas: categorías de productos, Datos: (Electrónicos, 40), (Ropa, 30), (Alimentos, 20), (Otros, 10)Resp:",
+    "completion": "muestra la proporción de ventas por categoría de productos. Los productos electrónicos representan el 40% de las ventas, la ropa el 30%, los alimentos el 20% y otros productos el 10%.END"
+  },
+  {
+    "prompt": "dispersión, Columnas: edad y salario, Datos: (25, 30000), (30, 35000), (35, 40000), (40, 45000)Resp:",
+    "completion": "muestra la relación entre la edad y el salario. A medida que la edad aumenta, también lo hace el salario. A los 25 años, el salario es de 30,000; a los 30 años, el salario aumenta a 35,000; a los 35 años, el salario es de 40,000; y a los 40 años, el salario llega a 45,000.END"
+  },
+  {
+    "prompt": "área, Columnas: visitantes y suscriptores, Datos: (Enero, 1000, 100), (Febrero, 1200, 150), (Marzo, 1400, 200)Resp:",
+    "completion": "muestra la cantidad de visitantes y suscriptores a lo largo de tres meses. En enero, había 1000 visitantes y 100 suscriptores. En febrero, la cantidad de visitantes aumentó a 1200 y los suscriptores a 150. En marzo, la cantidad de visitantes continuó aumentando a 1400 y los suscriptores a 200.END"
+  },
+  {
+    "prompt": "columna, Columnas: nuevos usuarios y usuarios activos, Datos: (Enero, 300, 700), (Febrero, 350, 750), (Marzo, 400, 800)Resp:",
+    "completion": "muestra nuevos usuarios y usuarios activos para tres meses. En enero, hubo 300 nuevos usuarios y 700 usuarios activos. En febrero, los nuevos usuarios aumentaron a 350 y los usuarios activos a 750. En marzo, los nuevos usuarios siguieron aumentando a 400, mientras que los usuarios activos llegaron a 800.END"
+  },
+  {
+    "prompt": "radar, Columnas: habilidades, Datos: (Comunicación, 4), (Liderazgo, 3), (Programación, 5), (Diseño, 2)Resp:",
+    "completion": "muestra la puntuación de habilidades en cuatro áreas diferentes. La comunicación obtiene una puntuación de 4, el liderazgo una puntuación de 3, la programación una puntuación de 5 y el diseño una puntuación de 2.END"
+  },
+  {
+    "prompt": "burbujas, Columnas: inversión y rentabilidad, Datos: (A, 10000, 500), (B, 20000, 1000), (C, 30000, 1500), (D, 40000, 2000)Resp:",
+    "completion": "muestra la relación entre la inversión y la rentabilidad para cuatro proyectos diferentes. El proyecto A tiene una inversión de 10,000 y una rentabilidad de 500. El proyecto B tiene una inversión de 20,000 y una rentabilidad de 1,000. El proyecto C tiene una inversión de 30,000 y una rentabilidad de 1,500. El proyecto D tiene una inversión de 40,000 y una rentabilidad de 2,000.END"
+  },
+  {
+    "prompt": "donut, Columnas: canales de adquisición, Datos: (Orgánico, 60), (Pago, 25), (Referido, 10), (Social, 5)Resp:",
+    "completion": "muestra la proporción de adquisición de usuarios a través de diferentes canales. El tráfico orgánico representa el 60% de las adquisiciones, el tráfico de pago el 25%, el tráfico referido el 10% y el tráfico social el 5%.END"
+  },
+  {
+    "prompt": "violin, Columnas: duración de la llamada, Datos: (1, 2, 3, 3, 3, 4, 5, 5, 6, 7)Resp:",
+    "completion": "muestra la distribución de la duración de las llamadas. La duración de las llamadas se concentra principalmente alrededor de 3, con menos llamadas que duran 1, 2, 4, 5, 6 y 7.END"
+  },
+  {
+    "prompt": "barras horizontales, Columnas: productos y unidades vendidas, Datos: (Producto A, 100), (Producto B, 150), (Producto C, 200), (Producto D, 250)Resp:",
+    "completion": "muestra las unidades vendidas de cuatro productos diferentes. El Producto A tuvo 100 unidades vendidas, el Producto B tuvo 150 unidades vendidas, el Producto C tuvo 200 unidades vendidas y el Producto D tuvo 250 unidades vendidas.END"
+  },
+  {
+    "prompt": "caja, Columnas: tiempos de entrega, Datos: (1, 3, 4, 7, 9)Resp:",
+    "completion": "muestra la distribución de los tiempos de entrega. El valor mínimo es 1, el primer cuartil es 3, la mediana es 4, el tercer cuartil es 7 y el valor máximo es 9.END"
+  },
+  {
+    "prompt": "apilado, Columnas: ingresos por categoría, Datos: (Enero, 2000, 3000, 1000), (Febrero, 2500, 3500, 1500), (Marzo, 2200, 3300, 1400)Resp:",
+    "completion": "muestra los ingresos por categoría para tres meses. En enero, la primera categoría generó 2000, la segunda 3000 y la tercera 1000. En febrero, la primera categoría generó 2500, la segunda 3500 y la tercera 1500. En marzo, la primera categoría generó 2200, la segunda 3300 y la tercera 1400.END"
+  },
+  {
+    "prompt": "línea doble, Columnas: temperatura máxima y mínima, Datos: (Día 1, 25, 15), (Día 2, 28, 17), (Día 3, 27, 18), (Día 4, 26, 16)Resp:",
+    "completion": "muestra las temperaturas máximas y mínimas en cuatro días. En el Día 1, la temperatura máxima fue de 25 y la mínima de 15. En el Día 2, la temperatura máxima aumentó a 28 y la mínima a 17. En el Día 3, la temperatura máxima disminuyó a 27 y la mínima aumentó a 18. En el Día 4, la temperatura máxima disminuyó a 26 y la mínima a 16.END"
+  },
+  {
+    "prompt": "marimekko, Columnas: género y edad, Datos: (Hombre, 0-17, 100), (Hombre, 18-34, 200), (Hombre, 35-64, 300), (Mujer, 0-17, 120), (Mujer, 18-34, 220), (Mujer, 35-64, 280)Resp:",
+    "completion": "muestra la distribución de género y edad en seis segmentosEND"
+  },
+  {
+    "prompt": "barras, Columnas: Dataset1 y Dataset2, Datos: (A, 300, 500), (B, 400, 600), (C, 350, 550)Resp:",
+    "completion": "muestra los valores de Dataset1 y Dataset2 para tres categorías (A, B y C). Para la categoría A, Dataset1 tiene un valor de 300 y Dataset2 de 500. Para la categoría B, Dataset1 tiene un valor de 400 y Dataset2 de 600. Para la categoría C, Dataset1 tiene un valor de 350 y Dataset2 de 550.END"
+  },
+  {
+    "prompt": "línea, Columnas: Dataset1 y Dataset2, Datos: (Punto 1, 10, 20), (Punto 2, 12, 22), (Punto 3, 14, 18)Resp:",
+    "completion": "muestra los valores de Dataset1 y Dataset2 en tres puntos diferentes. En el Punto 1, Dataset1 tiene un valor de 10 y Dataset2 de 20. En el Punto 2, Dataset1 aumenta a 12 y Dataset2 a 22. En el Punto 3, Dataset1 aumenta a 14 y Dataset2 disminuye a 18.END"
+  },
+  {
+    "prompt": "área, Columnas: Dataset1 y Dataset2, Datos: (Enero, 100, 200), (Febrero, 150, 250), (Marzo, 120, 220)Resp:",
+    "completion": "muestra los valores de Dataset1 y Dataset2 a lo largo de tres meses. En enero, Dataset1 tiene un valor de 100 y Dataset2 de 200. En febrero, Dataset1 aumenta a 150 y Dataset2 a 250. En marzo, Dataset1 disminuye a 120 y Dataset2 a 220.END"
+  },
+  {
+    "prompt": "dispersión, Columnas: Dataset1 y Dataset2, Datos: (1, 100), (2, 150), (3, 200), (4, 250)Resp:",
+    "completion": "muestra la relación entre Dataset1 y Dataset2. A medida que Dataset1 aumenta, también lo hace Dataset2. Con un valor de 1 en Dataset1, Dataset2 tiene un valor de 100. Con un valor de 2 en Dataset1, Dataset2 aumenta a 150. Con un valor de 3 en Dataset1, Dataset2 aumenta a 200. Con un valor de 4 en Dataset1, Dataset2 aumenta a 250.END"
+  },
+  {
+    "prompt": "pastel, Columnas: Dataset1, Datos: (Categoría A, 40), (Categoría B, 30), (Categoría C, 20), (Categoría D, 10)Resp:",
+    "completion": "muestra la proporción de valores de Dataset1 en cuatro categorías. La Categoría A representa el 40% del total, la Categoría B el 30%, la Categoría C el 20% y la Categoría D el 10%.END"
+  },
+  {
+    "prompt": "barras, Columnas: Alfa y Beta, Datos: (A, 300, 500), (B, 400, 600), (C, 350, 550)Resp:",
+    "completion": "muestra los valores de las columnas Alfa y Beta para tres categorías (A, B y C). Para la categoría A, Alfa tiene un valor de 300 y Beta de 500. Para la categoría B, Alfa tiene un valor de 400 y Beta de 600. Para la categoría C, Alfa tiene un valor de 350 y Beta de 550.END"
+  },
+  {
+    "prompt": "línea, Columnas: Gamma y Delta, Datos: (Punto 1, 10, 20), (Punto 2, 12, 22), (Punto 3, 14, 18)Resp:",
+    "completion": "muestra los valores de las columnas Gamma y Delta en tres puntos diferentes. En el Punto 1, Gamma tiene un valor de 10 y Delta de 20. En el Punto 2, Gamma aumenta a 12 y Delta a 22. En el Punto 3, Gamma aumenta a 14 y Delta disminuye a 18.END"
+  },
+  {
+    "prompt": "área, Columnas: Epsilon y Zeta, Datos: (Enero, 100, 200), (Febrero, 150, 250), (Marzo, 120, 220)Resp:",
+    "completion": "muestra los valores de las columnas Epsilon y Zeta a lo largo de tres meses. En enero, Epsilon tiene un valor de 100 y Zeta de 200. En febrero, Epsilon aumenta a 150 y Zeta a 250. En marzo, Epsilon disminuye a 120 y Zeta a 220.END"
+  },
+  {
+    "prompt": "dispersión, Columnas: Eta y Theta, Datos: (1, 100), (2, 150), (3, 200), (4, 250)Resp:",
+    "completion": "muestra la relación entre las columnas Eta y Theta. A medida que Eta aumenta, también lo hace Theta. Con un valor de 1 en Eta, Theta tiene un valor de 100. Con un valor de 2 en Eta, Theta aumenta a 150. Con un valor de 3 en Eta, Theta aumenta a 200. Con un valor de 4 en Eta, Theta aumenta a 250.END"
+  },
+  {
+    "prompt": "pastel, Columnas: Iota, Datos: (Categoría A, 40), (Categoría B, 30), (Categoría C, 20), (Categoría D, 10)Resp:",
+    "completion": "muestra la proporción de valores de la columna Iota en cuatro categorías. La Categoría A representa el 40% del total, la Categoría B el 30%, la Categoría C el 20% y la Categoría D el 10%.END"
+  }
